@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1687852269 source:c:\bank_console_application\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<string>
+	<conio.h>
+	<fstream>
+
